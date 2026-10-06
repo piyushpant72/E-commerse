@@ -1,0 +1,6 @@
+{
+  "name": "NovaMart — Modern Indian E-Commerce Storefront",
+  "description": "A complete, responsive Indian e-commerce platform featuring product discovery, multi-attribute filtering, flash deals, cart, wishlist, and checkout workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
